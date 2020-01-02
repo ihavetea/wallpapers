@@ -1,5 +1,5 @@
 # Luke's Wallpapers
-
+Taken from https://github.com/LukeSmithxyz/wallpapers
 One of the more common requests I get is to share one of the images I have as a wallpaper or decoration in a video, so here's my entire wallpaper folder.
 
 ## Origin
